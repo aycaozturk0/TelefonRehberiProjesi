@@ -1,0 +1,9 @@
+2026-01-09 15:51:30.3257 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2026-01-09 15:51:30.3454 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2026-01-09 15:51:30.3734 Info Configuration initialized: TargetNames=allfile, ConfigItems=20, AutoReload=true, FilePath=C:\Users\aycao\OneDrive\Masaüstü\TelefonRehberiProjesi\PhoneBook.WebAPI\nlog.config
+2026-09-15 18:50:19.2052 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2026-09-15 18:50:19.2344 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2026-09-15 18:50:19.2825 Info Configuration initialized: TargetNames=allfile, ConfigItems=20, AutoReload=true, FilePath=C:\Users\aycao\OneDrive\Masaüstü\TelefonRehberiProjesi\TelefonRehberiProjesi\PhoneBook.WebAPI\nlog.config
+2026-09-15 19:00:41.1714 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2026-09-15 19:00:41.1984 Info NLog, Version=6.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 6.0.6.4706. Product version: 6.0.6+1913a823347d47c0b004ce714af74436261daf20. GlobalAssemblyCache: False
+2026-09-15 19:00:41.2408 Info Configuration initialized: TargetNames=allfile, ConfigItems=20, AutoReload=true, FilePath=C:\Users\aycao\OneDrive\Masaüstü\TelefonRehberiProjesi\TelefonRehberiProjesi\PhoneBook.WebAPI\nlog.config
